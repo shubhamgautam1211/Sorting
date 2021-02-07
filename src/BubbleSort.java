@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class BubbleSort {
-
+//BUBBLE SORT
 	 static void bubbleSort(int[] arr) {  
 	        int size = arr.length;  
 	        int swap = 0; 
